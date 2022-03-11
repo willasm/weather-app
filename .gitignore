@@ -1,0 +1,6 @@
+hard-coded-data.txt
+.vscode/*.md
+node_modules
+
+# Local Netlify folder
+.netlify
